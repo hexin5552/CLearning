@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="665f915a-9c0f-40a2-bffa-b198a759f1a8" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/10sum_arr1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/11sum_arr2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/12order.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/13pte_ops.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/14arf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/1day_mon1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/2no_data.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/3some_data.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/4day_mon2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/5designate.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/6bounds.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/7rain.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/8pnt_add.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter10/9day_mon3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework01.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework010.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework011.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework02.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework03.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework04.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework05.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework06.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework07.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework08.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework09.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter7/homework9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/10_3homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/10_6homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/11_1homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/11_2homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/11_3homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/11_4homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/11_5homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/11_6homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/11_7homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/11_8homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/1echo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/2echo_eof.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/4guess.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/5showchar1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/6showchar2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/7checking.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter8/8menuette.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/10_2homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/10_4homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/10_5homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/10_6homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/10_8homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/10_9homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_10homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_11homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_1homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_2homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_3homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_4homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_5homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_6homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_7homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_8homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/11_9homework.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/12loccheck.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/13swap1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/14swap2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/15swap3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/1lethead1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/2lethead2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/3lesser.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/4misuse.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/5proto.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/6recur.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/7factor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/8binary.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/9hotel/10hotel.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/9hotel/11hotel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter9/9hotel/9usehotel.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcd_red.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3E6UMg8eeiPo2Mb2Q3Y0YimL0Om" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="665f915a-9c0f-40a2-bffa-b198a759f1a8" name="更改" comment="" />
+      <created>1779498468322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779498468322</updated>
+      <workItem from="1779498468669" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

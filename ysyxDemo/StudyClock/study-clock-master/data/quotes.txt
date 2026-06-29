@@ -1,0 +1,22 @@
+程序员的三种美德：懒、急、傲慢。 —— Larry Wall
+把简单的事情做好就是不简单。
+不积跬步，无以至千里。
+Programs are meant to be read by humans and only incidentally for computers to execute. — Donald Knuth
+调试代码比编写代码难一倍。 —— Brian Kernighan
+The only way to learn a new programming language is by writing programs in it. — Dennis Ritchie
+每完成一小步，就向前迈了一大步。
+代码不是写给机器看的，是写给一周后的自己看的。
+Premature optimization is the root of all evil. — Donald Knuth
+Walking on water and developing software from a specification are easy if both are frozen. — Edward V. Berard
+如果你不能理解你写的代码，那么你就不能维护它。
+简单是终极的复杂。 —— 达芬奇
+算法 + 数据结构 = 程序 —— Niklaus Wirth
+错误信息比正确结果更宝贵。
+一行代码也是代码。
+做事最大的敌人是想做事却不做。
+慢即是快，少即是多。
+你不需要完美的代码，你需要可以工作的代码。
+程序运行起来，bug 才开始。
+让代码自己说话。
+今天的努力会在某个未来的早晨醒来时悄悄告诉你。
+学习是写给未来自己的信。
