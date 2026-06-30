@@ -328,4 +328,6 @@ add_executable(Clion
         Chapter11/13_4homework.c
         Chapter11/13_5homework.c
         Chapter11/13_6homework.c
+        Chapter11/13_7homework.c
+        Chapter11/13_8homework.c
 )
