@@ -9,7 +9,7 @@ int main(void) {
     Item temp;
     char ch;
     InitializeQueue(&line);
-    puts("Testing te queue interface. Type a to add a value,");
+    puts("Testing the queue interface. Type a to add a value,");
     puts("type d to delete a value, and type q to quit.");
     while ((ch = getchar()) != 'q') {
         if (ch != 'a' && ch != 'd')

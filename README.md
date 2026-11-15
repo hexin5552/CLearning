@@ -9,7 +9,7 @@
 ## 🛠️ 开发环境
 
 - **IDE**：JetBrains CLion（因此仓库中包含 `.idea` 等 IDE 配置文件）
-- **编译器**：MinGW / GCC（取决于平台）
+- **编译器**：MinGW / GCC / G++（取决于项目）
 - **操作系统**：Windows / Linux / macOS 均可
 
 > ⚠️ 注意：由于未添加 `.gitignore`，IDE 的配置文件和编译中间文件被一并上传。建议 Fork 或克隆后自行添加 `.gitignore`，避免不必要的文件干扰。
@@ -17,24 +17,36 @@
 ## 📂 目录结构
 ```
 CLearning/
-├── 第1-10章/ # 各章节练习代码（按章组织）
-├── 第11章/ # 当前学习章节
-├── ysyx/ # “一生一芯”项目实践（番茄钟）
-│ └── README.md # 该项目详细说明
-└── README.md # 本文件
+├── C Primer Plus/        # 各章节练习代码（按章组织）
+├── C++ Primer Plus/      # 各章节练习代码（按章组织）
+├── ysyx/                 # “一生一芯”项目实践（番茄钟）
+├── pushBox/              # 控制台推箱子项目 
+├── Tetris/               # 控制台俄罗斯方块项目
+├── Snake/                # 控制台贪吃蛇项目
+└── README.md             # 本文件
 ```
-## 🍅 ysyx —— 番茄钟实践项目
 
+## 📁 项目介绍
+
+### 🍅 ysyx —— 番茄钟实践项目
 `ysyx/` 目录是我参与 **“一生一芯”项目组** 的阶段性实践作品，实现了一个**命令行番茄钟计时器**。
-
 - **功能**：遵循番茄工作法（25分钟工作 + 5分钟休息），可自定义时长。
 - **平台要求**：**Linux** 环境下原生运行（依赖标准终端和信号处理）。
 - **Windows 用户**：需安装兼容环境（如 MinGW + cmd 或 WSL），或使用 Cygwin 等模拟层。
 
 具体使用方法和实现细节，请参阅 `ysyx/README.md`。
 
+### 🎮 TetrisConsole —— 控制台俄罗斯方块
+纯C语言控制台字符版俄罗斯方块，和你之前写的版本一致。
+- 技术栈：标准C + Windows控制台API
+- 说明：gcc 直接编译，不需要图形库，在Windows控制台运行。
+
 ## 🚀 如何运行
 
 1. 克隆本仓库：
-   ```bash
-   git clone https://github.com/hexin5552/CLearning.git
+```bash
+git clone [https://github.com/hexin5552/CLearning.git](https://github.com/hexin5552/CLearning.git)
+```
+
+2. 分项目编译提示：
+- 教材章节代码、控制台俄罗斯方块、控制台五子棋、ysyx番茄钟：使用 `gcc` 编译 `.c` 文件

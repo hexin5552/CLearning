@@ -3,7 +3,9 @@
  * @version 1.0
  */
 
-#include iosream.h
+#include <iostream>
+using namespace std;
 int main(void) {
+    std::cout << "helloworld" << '\n';
     return 0;
 }

@@ -435,4 +435,23 @@ add_executable(Clion
         "C Primer Plus/Chapter17/11tree.c"
         "C Primer Plus/Chapter17/12petclub.c"
         "C++ Primer Plus/Chapter1/1helloworld.cpp"
+        "C Primer Plus/Chapter17/13stack.h"
+        "C Primer Plus/Chapter17/14stack.c"
+        "C Primer Plus/Chapter17/15use_s.c"
+        "Pointers on c/Chapter1/1rearrangeCharacters.c"
+        "Pointers on c/Chapter1/test.c"
+        Leetcode/banker.c
+        pushBox/main.c
+        5chess/main.c
+        typingPractise/main.c
+        Tetris/main.c
+        Tetris/date.h
+        Tetris/game.h
+        Tetris/mywindows.h
+        Tetris/mywindows.c
+        Tetris/game.c
+        Snake/main.c
+        Snake/snake.h
+        Snake/snake.c
+        5InARow/main.cpp
 )
